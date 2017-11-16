@@ -1,0 +1,18 @@
+Participation Report
+
+Code
+Tia Smith: Backpropagation, RBF, Cluster, Driver
+Elias Athey: Driver, Backpropagation, RBF, Node, No Function, No Weight Function, Sigmoid Funcion, Layer, INodeFunction, IWeightFunction
+Aaron McCarthy: Kmeans, Rosenbrock, CV, Driver
+
+
+Design Document
+Tia Smith: 33%
+Elias Athey: 33%
+Aaron McCarthy: 33%
+
+
+Report
+Tia Smith: 40%
+Elias Athey: 25%
+Aaron McCarthy: 35%
